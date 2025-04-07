@@ -35,7 +35,7 @@ Automatic Stat Decreases: Over time, the pet's stats will decrease, requiring yo
 
 How to Play
 
-Start the Game: Upon starting, you'll be prompted to name your pet. Choose a name for your digital companion.
+Start the Game: Open the Digi-Pet Evolution.java file, you'll be prompted to name your pet. Choose a name for your digital companion.
 
 
 Interact with Your Pet: Use the buttons at the bottom of the screen to feed, play, sleep, teach, or evolve your pet.
@@ -60,6 +60,8 @@ Keep Your Pet Healthy: Monitor the hunger, happiness, energy, and intelligence s
 
 
 Watch Your Pet Grow: Over time, your pet ages, and depending on its stats, it will evolve into different forms. The goal is to raise a happy and healthy pet!
+
+End the game by closing the window
 
 
 
